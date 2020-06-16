@@ -1,4 +1,4 @@
-# Machine_Learning
+# Machine Learning
 Welcome to my ML world! 
 
 I have separated each of my ML project into folder of this repository. One of folders is from an online course, the Analytic Edge (MITx on edX), which I completed and have a certification.
